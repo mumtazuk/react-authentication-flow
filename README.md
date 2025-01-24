@@ -39,7 +39,6 @@ This project provides a simple authentication flow using React, Material-UI, and
     yarn install
     ```
 
- 
 4. Run the development server:
 
     ```bash
